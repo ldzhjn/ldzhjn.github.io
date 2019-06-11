@@ -2,7 +2,7 @@
 
 Runtime
 
-![](Spark-How-it-Runs.jpg "Spark Runtime")
+![](Spark-Runtime.jpg "Spark Runtime")
 
 Standalone
 
