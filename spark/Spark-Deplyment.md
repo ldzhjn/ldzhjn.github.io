@@ -2,17 +2,17 @@
 
 Runtime
 
-![](Spark-How-it-Runs.jpg)
+![](Spark-How-it-Runs.jpg "test")
 
 Standalone
 
-![](Spark-Standalone.png "Standalone")
+![](Spark-Standalone.png)
 
 YARN-Client
 
 ![](Spark-YARN-Client.png)
 
-YANR-Cluster
+YARN-Cluster
 
 ![](Spark-YARN-Cluster.jpeg)
 
