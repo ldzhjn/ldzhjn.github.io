@@ -2,20 +2,20 @@
 
 Runtime
 
-![](Spark-How-it-Runs.jpg "test")
+![](Spark-How-it-Runs.jpg "Spark Runtime")
 
 Standalone
 
-![](Spark-Standalone.png)
+![](Spark-Standalone.png "Standalone")
 
 YARN-Client
 
-![](Spark-YARN-Client.png)
+![](Spark-YARN-Client.png "YARN-Client")
 
 YARN-Cluster
 
-![](Spark-YARN-Cluster.jpeg)
+![](Spark-YARN-Cluster.jpeg "YARN-Cluster")
 
 Compare
 
-![](Spark-Compare-YARN-Standalone.png)
+![](Spark-Compare-YARN-Standalone.png "Compare between deployment modes")
